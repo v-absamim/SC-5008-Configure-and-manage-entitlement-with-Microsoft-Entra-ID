@@ -66,11 +66,11 @@ Access reviews help ensure that only the right people have access to secure reso
 
 1. Leave **Auto apply results to resources** box in the unchecked state.
 
-    >**Note:** we want to make sure we validate the results after the review is complete.
+    >**Note:** We want to make sure we validate the results after the review is complete.
 
 1. Choose the option **Remove access** for the **If reviewers don't respond**.
 
-    >**Note:** this is a setting you can use to control your level of security.  If no reviewer responds in a less secure security posture, you can go with Approve Access.  In a very secure security posture, you can use the Remove Access.  When implementing your own solutions, pick what works best for your company.
+    >**Note:** This is a setting you can use to control your level of security.  If no reviewer responds in a less secure security posture, you can go with Approve Access.  In a very secure security posture, you can use the Remove Access.  When implementing your own solutions, pick what works best for your company.
 
 1. For **At end of review, send notification to** select the admin account you are using for this lab.
 
