@@ -52,7 +52,7 @@ Access reviews help ensure that only the right people have access to secure reso
 
     | Field name | Value |
     | :--- | :--- |
-    | Select reviewers | Selected users(s) or groups(s) -- **Adele Vance** |
+    | Select reviewers | Selected user(s) or group(s) -- **Adele Vance** |
     | Duration (in days) | **5** |
     | Review recurrence | **Monthly** |
     | Start date | **Today's date** |
