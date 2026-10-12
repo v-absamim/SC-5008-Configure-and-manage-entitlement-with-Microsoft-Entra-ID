@@ -1,4 +1,4 @@
----
+<img width="4032" height="607" alt="image" src="https://github.com/user-attachments/assets/faef29c1-3de3-43d2-9c96-4ab4f0db1a86" />---
 lab:
   title: 'Lab 1: Building a catalog for use in Entitlement'
   module: 'Module : Deploying access using Microsoft Entra entitlement management'
@@ -176,7 +176,7 @@ After you complete this lab, you will be able to:
 
 1. Find **Christopher Green** in the list of users.  Put a check in the box next to that name.  Then select the **Select** button at the bottom of the screen.
 
-1. Leave the rest of the values set at the defaults.
+1. In the **Business justification** field, enter Access required for sales activities.
 
 1. Select the **Add** button at the bottom of the page.
 
