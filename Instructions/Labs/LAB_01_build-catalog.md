@@ -1,4 +1,4 @@
-<img width="4032" height="607" alt="image" src="https://github.com/user-attachments/assets/faef29c1-3de3-43d2-9c96-4ab4f0db1a86" />---
+---
 lab:
   title: 'Lab 1: Building a catalog for use in Entitlement'
   module: 'Module : Deploying access using Microsoft Entra entitlement management'
